@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left">💻I'm cureently working on HTML and CSS ...<br>📚 I'm currently learning JavaScript <br>🎯 How to reach me okiokiyew@gmail.com<br>📝Fun fact Lazy programmer</p>
+<p align="left">💻I'm cureently working on HTML and CSS ...<br>📚 I'm currently learning JavaScript   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
+<br>🎯 How to reach me okiokiyew@gmail.com<br>📝Fun fact Lazy programmer</p>
 
 ###
 
