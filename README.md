@@ -3,7 +3,7 @@
 
 ###
 
-<p align="center" style="font-size:40px"></b>A passionate frontend developer from Turkmenistan</p>
+<p align="center" ><font-size="20px">A passionate frontend developer from Turkmenistan</font-size></p>
 
 ###
 
