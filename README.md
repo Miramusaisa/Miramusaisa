@@ -12,10 +12,10 @@
 ###
 <ul>
   <li>
-<h3 align="left">💻I'm cureently working on HTML and CSS ...</h3></li>
-   <li><h3>📚 I'm currently learning JavaScript   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />  and CSS   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  /> </h3></li>
- <li><h3>🎯 How to reach me <a href="#">okiokiyew@gmail.com</a>  </h3></li>
-    <li><h3>📝Fun fact Lazy programmer</h3></li>
+<h4 align="left">💻I'm cureently working on HTML and CSS ...</h4></li>
+   <li><h4>📚 I'm currently learning JavaScript   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />  and CSS   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  /> </h4></li>
+ <li><h4>🎯 How to reach me <a href="#">okiokiyew@gmail.com</a>  </h4></li>
+    <li><h4>📝Fun fact Lazy programmer</h4></li>
 </ul>
 
 ###
