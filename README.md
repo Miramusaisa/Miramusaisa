@@ -3,19 +3,19 @@
 
 ###
 
-<p align="center">A passionate frontend developer from Turkmenistan</p>
+<p align="center" ><b></b>A passionate frontend developer from Turkmenistan</b></p>
 
 ###
 
-<h3 align="left">About me 😏</h3>
+<h2 align="left">About me 😏</h2>
 
 ###
 <ul>
   <li>
-<p align="left">💻I'm cureently working on HTML and CSS ...</li>
-   <li>📚 I'm currently learning JavaScript   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />  and CSS   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  /> </li>
- <li>🎯 How to reach me <a href="#">okiokiyew@gmail.com</a>  </li>
-    <li>📝Fun fact Lazy programmer</p></li>
+<h3 align="left">💻I'm cureently working on HTML and CSS ...</h3></li>
+   <li><h3>📚 I'm currently learning JavaScript   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />  and CSS   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  /> </h3></li>
+ <li><h3>🎯 How to reach me <a href="#">okiokiyew@gmail.com</a>  </h3></li>
+    <li><h3>📝Fun fact Lazy programmer</h3></li>
 </ul>
 
 ###
