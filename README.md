@@ -11,7 +11,7 @@
 ###
 
 <p align="left">💻I'm cureently working on HTML and CSS ...<br>📚 I'm currently learning JavaScript   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />  and CSS   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-<br>🎯 How to reach me <a>"okiokiyew@gmail.com"</a> <br>📝Fun fact Lazy programmer</p>
+<br>🎯 How to reach me <a href="#">okiokiyew@gmail.com</a> <br>📝Fun fact Lazy programmer</p>
 
 ###
 
